@@ -99,12 +99,12 @@ header div #sec {
 
 #center #txt {
   text-transform: uppercase;
-  font-size: 4vw;
+  font-size: 4.5vw;
 }
 
 #center #desc {
   font-family: 'Heebo';
-  font-size: 1.5vw;
+  font-size: 2vw;
 }
 
 footer {
@@ -120,12 +120,12 @@ footer {
       -ms-flex-align: center;
           align-items: center;
   height: 90vh;
-  font-size: 1.5vw;
+  font-size: 1.6vw;
   color: #999999;
 }
 
 footer a {
-  font-size: 1.5vw;
+  font-size: 1.6vw;
 }
 
 footer p {
