@@ -93,18 +93,18 @@ header div #sec {
 
 #center #oops {
   text-transform: uppercase;
-  font-size: calc(1.4vw + 1.4vh);
+  font-size: 3vw;
   color: #cccccc85;
 }
 
 #center #txt {
   text-transform: uppercase;
-  font-size: calc(2.8vw + 2.8vh);
+  font-size: 4vw;
 }
 
 #center #desc {
   font-family: 'Heebo';
-  font-size: calc(1vw + 1vh);
+  font-size: 1.5vw;
 }
 
 footer {
@@ -120,8 +120,12 @@ footer {
       -ms-flex-align: center;
           align-items: center;
   height: 90vh;
-  font-size: calc(.8vw + .8vh);
+  font-size: 1.5vw;
   color: #999999;
+}
+
+footer a {
+  font-size: 1.5vw;
 }
 
 footer p {
@@ -137,8 +141,8 @@ footer a:hover {
 }
 
 footer img {
-  margin-top: 4vh;
-  height: 80vh;
-  width: 20vw;
+  margin-top: -3.5vw;
+  height: 70vw;
+  width: 40vw;
 }
 /*# sourceMappingURL=styles.css.map */
